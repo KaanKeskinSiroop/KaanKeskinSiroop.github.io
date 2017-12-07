@@ -1,1 +1,7 @@
-h1 {color: #426493;}
+h1 {font-family: Georgia, serif;
+  background-color: #426493;
+color: #ffffff;}
+body {font-family: Georgia, serif;
+color: #0ab3d1;}
+#one_green_thing{color: #00ff00;}
+.all_red_things{color: #ff0000;}
